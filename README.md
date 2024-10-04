@@ -1,0 +1,1 @@
+## This a AI powered chat bot build with Django and OpenAI
